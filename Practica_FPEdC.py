@@ -1,6 +1,6 @@
 #Josue Mtz
 #Primero importo las librerias que voy a ocupar y que ya se encuentran instaladas
-import time, urllib.error, urllib.request, urllib.parse
+import time, os
 from bs4 import BeautifulSoup as bs
 
 #Tambien importamos y en su defecto instalamos las librerias que usaremos: WikipediaApi y Requests
